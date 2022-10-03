@@ -112,7 +112,7 @@
                 <div class="pf-item informatica webdesign">
                     <a href="../../cedi-juvenil/informatica" >
                         <div class="pf-image">
-                            <img class="img-responsive" src="../../diseno/images/cursos/computación1.gif" width="150" height="450">
+                            <img class="img-responsive" src="../../diseno/images/cursos/computacion-1.gif" width="150" height="450">
                            </div> <!-- .pf-image -->
                     </a> <!-- .pf-style -->
                 </div>
@@ -144,7 +144,7 @@
                 <div class="pf-item musica graphic">
                     <a href="../../cedi-juvenil/musica">
                         <div class="pf-image">
-                            <img class="img-responsive" src="../../diseno/images/cursos/musica-2.gif" width="150" height="450">
+                            <img class="img-responsive" src="../../diseno/images/cursos/musica-4.gif" width="150" height="450">
                             </div> <!-- .pf-image -->
                     </a> <!-- .pf-style -->
                 </div>
@@ -168,18 +168,7 @@
     <!-- End Call to Action -->
     <!-- Start Footer -->
   <footer class="site-footer">
-        <div class="container">
-            <small class="copyright pull-left">Alcaldía Municipal de San Miguel<a href="http://www.tabthemes.com/"></a></small>
-            <small class="copyright pull-right">Plantilla desarrollada por:&nbsp;<a href="http://www.tabthemes.com/">tabthemes</a></small>
-            <small class="copyright pull-right"><a href="http://www.tabthemes.com/">|&nbsp;</a></small>
-            <small class="copyright pull-right">Página desarrollada por:&nbsp;<a href="https://www.facebook.com/aaron.villalta.3994">Aarón Villalta &nbsp;</a></small>
-			<br>
-			<br>
-            <div class="social-icon pull-center">
-                <a href="https://www.facebook.com/proyeccionsocialsm"><i class="fa fa-facebook"></i></a>
-            </div>
-            <!-- /social-icon -->
-        </div>
+       <?php include '../../footer.php'; ?>
         <!-- /container -->
     </footer>
     <!-- End Footer -->
