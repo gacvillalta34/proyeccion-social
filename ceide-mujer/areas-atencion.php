@@ -107,7 +107,7 @@
                 </div>
                 <!-- Portfolio Item -->
                 <div class="pf-item talleres-no-vocacio webdesign">
-                    <a href="../cedi-juvenil/informatica" >
+                    <a href="talleres.php" >
                         <div class="pf-image">
                             <img class="img-responsive" src="images/talleres.png" width="550" height="450">
                            </div> <!-- .pf-image -->
