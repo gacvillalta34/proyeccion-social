@@ -1,8 +1,0 @@
-if(resultado >= 16){
-       System.out.println("La suma es igual o mayor a 16");
-       System.out.println("El resultado es: " + df.format(resultado));
-       }
-       else{
-       System.out.println("La suma no es igual o menor a 16");
-       System.out.println("El resultado es: " + df.format(resultado));
-       }
